@@ -18,4 +18,8 @@ aggregation and stored procedures.
 
 ---
 
+## 📊 Visualizations
+- Category-wise total sales (Bar chart)
+- Average customer review rating by category
+- Customer distribution by age group
 
